@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tesla_gif/static/css/main.abc7ee87.chunk.css",
+    "main.js": "/tesla_gif/static/js/main.2d3a7589.chunk.js",
+    "main.js.map": "/tesla_gif/static/js/main.2d3a7589.chunk.js.map",
+    "runtime~main.js": "/tesla_gif/static/js/runtime~main.23bf2ed7.js",
+    "runtime~main.js.map": "/tesla_gif/static/js/runtime~main.23bf2ed7.js.map",
+    "static/js/2.637d97be.chunk.js": "/tesla_gif/static/js/2.637d97be.chunk.js",
+    "static/js/2.637d97be.chunk.js.map": "/tesla_gif/static/js/2.637d97be.chunk.js.map",
+    "index.html": "/tesla_gif/index.html",
+    "precache-manifest.387b288442477781717c68b6a0efbc44.js": "/tesla_gif/precache-manifest.387b288442477781717c68b6a0efbc44.js",
+    "service-worker.js": "/tesla_gif/service-worker.js",
+    "static/css/main.abc7ee87.chunk.css.map": "/tesla_gif/static/css/main.abc7ee87.chunk.css.map"
+  }
+}
