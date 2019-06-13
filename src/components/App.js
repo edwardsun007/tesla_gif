@@ -74,7 +74,7 @@ class App extends Component {
     return (
       <div className="ui container" style={{ marginTop: "10px" }}>
         <SearchBar onChange={this.onSearchChange} />
-        {this.state.term !== "" && this.state.images.length == 0 ? (
+        {this.state.term !== "" && this.state.images.length === 0 ? (
           <div className="ui placeholder segment">
             <div className="ui icon header">
               <i className="image icon" />
@@ -82,7 +82,7 @@ class App extends Component {
             </div>
           </div>
         ) : null}
-        {this.state.term == "" ? (
+        {this.state.term === "" && this.state.images.length === 0 ? (
           <div className="ui placeholder segment">
             <div className="ui icon header">
               <i className="rocket icon" />
